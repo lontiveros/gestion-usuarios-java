@@ -1,0 +1,1 @@
+# Frontend created with create-react-app with Typescript as template.
